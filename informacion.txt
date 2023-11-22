@@ -1,0 +1,33 @@
+Fede Garcia13:57
+y el jesus aniki?
+Fede Garcia14:08
+al final le pones --force
+para forzzar
+Oscar Ruiz14:10
+npm install -g npm@latest
+Oscar Ruiz14:19
+root
+Oscar Ruiz14:26
+const name = () => {} esto es un arrow function
+axios.get es una forma de hacer una peticion http con el protocolo get
+useEffect es un hook de react para hacer movimientos asincronos
+un movimiento asincrono es una peticion a una base de datos
+Fede Garcia14:28
+vuelvo al rato
+Oscar Ruiz14:30
+useState crea un estado donde guardas informacion y que cuando esta informacion cambia el componente se renderiza nuevamente
+Oscar Ruiz14:33
+conditional rendering es para mostrar algo bajo ciertas copndiciones
+Oscar Ruiz14:34
+{name:oscar, lastname:Ruiz} esto es un objeto
+[oscar, ruiiz] estro es un arreglo
+Oscar Ruiz14:36
+let persona1 = {name:oscar, lastname:Ruiz}
+let persona2 = [oscar, ruiz]
+Oscar Ruiz14:39
+let arreglo = [kimochi, onichan, algo]
+arreglo1
+arreglo[2]
+arreglo[0]
+Tú14:40
+console.log(persona1.name, persona2[0])
